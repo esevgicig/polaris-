@@ -1,0 +1,11 @@
+x = input("what is x?")
+y= input("what is y?")
+
+z = int(x) + int(y)
+t = int(x) - int(y)
+u= int(x) * int(y)
+v= int(x) / int(y)
+print ("toplama:" , z)
+print("cikartma:", t)
+print("carpma:", u)
+print("bolme:", v)
